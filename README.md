@@ -12,13 +12,18 @@ Before getting started with data science it's important to realize there are man
 
 Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/theres-more-than-one-kind-of-data-scientist.html)_ due to these different roles and need for collaboration. Instead of working in siloed environments it's helpful to have a central platform for all the roles to collaborate, for this I recommend getting started with the [Data Science Experience](https://datascience.ibm.com/). Here you can import data from many different sources, clean and transform the data, use tools and libraries of your choice, including RStudio, Jupyter Notebooks, and SPSS, train and test models, setup automation of tasks, easily communicate results with Pixie Dust and share models for consumption as API endpoints.  You get all of this built on top of Apache Spark and IBM’s Cloud Platform.
 
-
+#### [Signup for Watson Machine Learning Beta](https://datasciencex.typeform.com/to/h8gqld)
 
 ### Guides
+- [Overview of Watson Machine Learning](https://datascience.ibm.com/blog/machine-learning-for-everyone/)
 - [Getting started with Watson Machine Learning](https://console.bluemix.net/docs/services/PredictiveModeling/index.html#WMLgettingstarted)
+- [How to start a data science project in the DataScience Experience](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)
+- [Adding a custom library to a Jupyter Notebook in the DataScience Experience](https://datascience.ibm.com/blog/add-a-custom-library-to-a-jupyter-scala-notebook-in-ibm-data-science-experience-dsx/)
+- [How to Use dashDB in the DataScience Experience](https://datascience.ibm.com/blog/enhanced-dashdb-and-dsx-integration-now-available/)
 - [A visual introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Machine Learning Progression for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+ 
 
 ### Examples
 - [Using correlations To understand Your Data in R](http://amunategui.github.io/Exploring-Your-Data-Set/)
@@ -40,4 +45,6 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 ### Libraries
 - [Plotly Library for Pandas](https://plot.ly/pandas/): _Interative graphs directly from dataframes_
 - [scikit-learn](http://scikit-learn.org/stable/index.html): _Machine Learning in Python_
+
+
 
