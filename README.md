@@ -2,6 +2,9 @@
 
 Before getting started with data science it's important to realize there are many different roles involved:
 
+![alt text](https://github.com/justinmccoy/datascience_resources/blob/master/media/roles.png "Roles")
+
+
 * **Data Engineer** ingesting, exploring, transforming, cleaning and understand data
 * **Data Scientist** shaping and evaluating data, creating or building models, and communicating and sharing results
 * **Business Analyst** understand the problem domain, evaluating models, or communicating results
