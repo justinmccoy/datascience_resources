@@ -24,6 +24,10 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 - [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Machine Learning Progression for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
  
+### Videos
+
+21 Short Videos Introducing Features of the Data Science Experience 
+<a href="https://www.youtube.com/playlist?list=PLn_pSzzTCsBDItVeyQkpHM1A6wwJ0_jVw" target="_blank"><img src="http://img.youtube.com/vi/cG0ADd9aAO8/0.jpg" alt="21 Short Videos Introducing Features of the Data Science Experience" width="240" height="180" border="10" /></a>
 
 ### Examples
 - [Using correlations To understand Your Data in R](http://amunategui.github.io/Exploring-Your-Data-Set/)
@@ -34,6 +38,9 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 - [Developing IBM Streams applications w/Python](https://datascience.ibm.com/blog/developing-ibm-streams-applications-with-the-python-api-version-1-6-2/)
 - [IBM Watson Data Lab Github](https://github.com/ibm-watson-data-lab/)
 - [Examples of pattern classificaion](https://github.com/rasbt/pattern_classification)
+- [Deep Learning Anomaly Detection](https://www.ibm.com/developerworks/library/iot-deep-learning-anomaly-detection-1/)
+- [Cognitive IoT Machine Learning](https://www.ibm.com/developerworks/library/iot-cognitive-iot-app-machine-learning/)
+- [Realtime anomaly detection](https://developer.ibm.com/recipes/tutorials/realtime-anomaly-detection-on-the-iot-edge-using-nodered-and-moving-zscore/)
 
 ### Data
 - [Awesome list of public datasets](https://github.com/caesar0301/awesome-public-datasets)
