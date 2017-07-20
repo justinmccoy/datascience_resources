@@ -1,5 +1,4 @@
 ## A collection of resources to facilitate your journey into data science
----
 
 Before getting started with data science it's important to realize there are many different roles involved:
 
