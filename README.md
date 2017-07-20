@@ -25,8 +25,8 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 - [Machine Learning Progression for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
  
 ### Videos
-
 21 Short Videos Introducing Features of the Data Science Experience 
+
 <a href="https://www.youtube.com/playlist?list=PLn_pSzzTCsBDItVeyQkpHM1A6wwJ0_jVw" target="_blank"><img src="http://img.youtube.com/vi/cG0ADd9aAO8/0.jpg" alt="21 Short Videos Introducing Features of the Data Science Experience" width="240" height="180" border="10" /></a>
 
 ### Examples
