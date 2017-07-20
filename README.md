@@ -10,14 +10,15 @@ Before getting started with data science it's important to realize there are man
 * **Business Analyst** understand the problem domain, evaluating models, or communicating results
 * **App Developer** consumes data and models to create applications
 
-Data science is considered a _team sport_ due to these different roles and need for collaboration. Instead of working in siloed environments it's helpful to have a central platform for all the roles to collaborate, for this I recommend getting started with the [Data Science Experience](https://datascience.ibm.com/). Here you can import data from many different sources, clean and transform the data, use tools and libraries of your choice, including RStudio, Jupyter Notebooks, and SPSS, train and test models, setup automation of tasks, easily communicate results with Pixie Dust and share models for consumption as API endpoints.  You get all of this built on top of Apache Spark and IBM’s Cloud Platform.
+Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/theres-more-than-one-kind-of-data-scientist.html)_ due to these different roles and need for collaboration. Instead of working in siloed environments it's helpful to have a central platform for all the roles to collaborate, for this I recommend getting started with the [Data Science Experience](https://datascience.ibm.com/). Here you can import data from many different sources, clean and transform the data, use tools and libraries of your choice, including RStudio, Jupyter Notebooks, and SPSS, train and test models, setup automation of tasks, easily communicate results with Pixie Dust and share models for consumption as API endpoints.  You get all of this built on top of Apache Spark and IBM’s Cloud Platform.
 
 
 
 ### Guides
 - [Getting started with Watson Machine Learning](https://console.bluemix.net/docs/services/PredictiveModeling/index.html#WMLgettingstarted)
-
-
+- [A visual introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+- [Machine Learning Progression for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
 ### Examples
 - [Using correlations To understand Your Data in R](http://amunategui.github.io/Exploring-Your-Data-Set/)
@@ -27,7 +28,7 @@ Data science is considered a _team sport_ due to these different roles and need 
 - [Starcraft Replay Analysis](https://github.com/IBM/starcraft2-replay-analysis?cm_mc_uid=&cm_mc_sid_50200000=1500560380)
 - [Developing IBM Streams applications w/Python](https://datascience.ibm.com/blog/developing-ibm-streams-applications-with-the-python-api-version-1-6-2/)
 - [IBM Watson Data Lab Github](https://github.com/ibm-watson-data-lab/)
-
+- [Examples of pattern classificaion](https://github.com/rasbt/pattern_classification)
 
 ### Data
 - [Awesome list of public datasets](https://github.com/caesar0301/awesome-public-datasets)
