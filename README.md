@@ -42,6 +42,10 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 - [Cognitive IoT Machine Learning](https://www.ibm.com/developerworks/library/iot-cognitive-iot-app-machine-learning/)
 - [Realtime anomaly detection](https://developer.ibm.com/recipes/tutorials/realtime-anomaly-detection-on-the-iot-edge-using-nodered-and-moving-zscore/)
 
+### PowerAI
+- [Access IBM PowerAI platform w/Nimbix Cloud](https://www.youtube.com/watch?v=1nnWj6W7QJI&cm_mc_uid=60775604146415006451217&cm_mc_sid_50200000=1501014513)
+- [Achieve faster training of machine learning with TensorFlow and PowerAI](https://developer.ibm.com/code/journey/accelerate-training-of-machine-learning-algorithms/)
+
 ### Data
 - [Awesome list of public datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Historical and Current Financial Data](https://www.assetmacro.com/market-data/)
