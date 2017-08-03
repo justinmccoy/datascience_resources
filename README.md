@@ -12,7 +12,7 @@ Before getting started with data science it's important to realize there are man
 
 Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/theres-more-than-one-kind-of-data-scientist.html)_ due to these different roles and need for collaboration. Instead of working in siloed environments it's helpful to have a central platform for all the roles to collaborate, for this I recommend getting started with the [Data Science Experience](https://datascience.ibm.com/). Here you can import data from many different sources, clean and transform the data, use tools and libraries of your choice (RStudio, Jupyter Notebooks, SPSS, TensorFlow), train and test models, setup automation of tasks, easily communicate results (Pixie Dust) and share models for consumption as API endpoints.  You get all of this built on top of Apache Spark and IBM’s Cloud Platform.
 
-#### [Signup for Watson Machine Learning Beta](https://datasciencex.typeform.com/to/h8gqld)
+#### [Signup for Watson Machine Deep Learning (GPU Accelerated) Beta](https://datasciencex.typeform.com/to/jjGRo5)
 
 ### Guides
 - [Overview of Watson Machine Learning](https://datascience.ibm.com/blog/machine-learning-for-everyone/)
@@ -29,6 +29,24 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 
 <a href="https://www.youtube.com/playlist?list=PLn_pSzzTCsBDItVeyQkpHM1A6wwJ0_jVw" target="_blank"><img src="http://img.youtube.com/vi/cG0ADd9aAO8/0.jpg" alt="21 Short Videos Introducing Features of the Data Science Experience" width="240" height="180" border="10" /></a>
 
+
+## <img src="https://github.com/justinmccoy/datascience_resources/raw/master/media/data-engineer.png?raw=true" height="80" width="80" >Data Engineer Tasks 
+- Importing Data
+  * [Use Cloudant-Spark Connector in Python Notebook](https://developer.ibm.com/clouddataservices/docs/ibm-data-science-experience/docs/use-python-notebook-to-load-cloudant-data-into-spark/)
+  
+## <img src="https://github.com/justinmccoy/datascience_resources/raw/master/media/data-scientist.png?raw=true" height="80" width="80" >Data Scientist Tasks
+- xxxx
+  * [xxxxx](https:/datascience.ibm.com)
+  
+## <img src="https://github.com/justinmccoy/datascience_resources/raw/master/media/business-analyst.png?raw=true" height="80" width="80" >Business Analyst Tasks 
+- xxxx
+  * [xxxxx](https:/datascience.ibm.com)
+  
+## <img src="https://github.com/justinmccoy/datascience_resources/raw/master/media/app-developer.png?raw=true" height="80" width="80" >App Developer Tasks 
+- xxxx
+  * [xxxxx](https:/datascience.ibm.com)
+  
+  
 ### Examples
 - [Using correlations To understand Your Data in R](http://amunategui.github.io/Exploring-Your-Data-Set/)
 - [Collection of examples, notebooks and exercies in data science and machine learning](https://github.com/jdwittenauer/ipython-notebooks)
