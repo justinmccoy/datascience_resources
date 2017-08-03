@@ -32,7 +32,7 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 
 ## <img src="https://github.com/justinmccoy/datascience_resources/raw/master/media/data-engineer.png?raw=true" height="80" width="80" >Data Engineer Tasks 
 - Importing Data
-  * [Use Cloudant-Spark Connector in Python Notebook](https://developer.ibm.com/clouddataservices/docs/ibm-data-science-experience/docs/use-python-notebook-to-load-cloudant-data-into-spark/)
+  * [Python Connectors for Loading and Saving Data in Notebooks](https://datascience.ibm.com/docs/content/analyze-data/python_load.html)
   
 ## <img src="https://github.com/justinmccoy/datascience_resources/raw/master/media/data-scientist.png?raw=true" height="80" width="80" >Data Scientist Tasks
 - xxxx
