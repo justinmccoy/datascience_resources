@@ -43,7 +43,7 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
   * [xxxxx](https:/datascience.ibm.com)
   
 ## <img src="https://github.com/justinmccoy/datascience_resources/raw/master/media/app-developer.png?raw=true" height="80" width="80" >App Developer Tasks 
-- xxxx
+- [Train and Deploy Core ML Models for iOS and macOS](https://datascience.ibm.com/blog/leverage-scikit-learn-models-with-core-ml/)
   * [xxxxx](https:/datascience.ibm.com)
   
   
