@@ -28,23 +28,6 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 21 Short Videos Introducing Features of the Data Science Experience 
 
 <a href="https://www.youtube.com/playlist?list=PLn_pSzzTCsBDItVeyQkpHM1A6wwJ0_jVw" target="_blank"><img src="http://img.youtube.com/vi/cG0ADd9aAO8/0.jpg" alt="21 Short Videos Introducing Features of the Data Science Experience" width="240" height="180" border="10" /></a>
-
-
-## <img src="https://github.com/justinmccoy/datascience_resources/raw/master/media/data-engineer.png?raw=true" height="80" width="80" >Data Engineer Tasks 
-- Importing Data
-  * [Python Connectors for Loading and Saving Data in Notebooks](https://datascience.ibm.com/docs/content/analyze-data/python_load.html)
-  
-## <img src="https://github.com/justinmccoy/datascience_resources/raw/master/media/data-scientist.png?raw=true" height="80" width="80" >Data Scientist Tasks
-- xxxx
-  * [xxxxx](https:/datascience.ibm.com)
-  
-## <img src="https://github.com/justinmccoy/datascience_resources/raw/master/media/business-analyst.png?raw=true" height="80" width="80" >Business Analyst Tasks 
-- xxxx
-  * [xxxxx](https:/datascience.ibm.com)
-  
-## <img src="https://github.com/justinmccoy/datascience_resources/raw/master/media/app-developer.png?raw=true" height="80" width="80" >App Developer Tasks 
-- [Train and Deploy Core ML Models for iOS and macOS](https://datascience.ibm.com/blog/leverage-scikit-learn-models-with-core-ml/)
-  * [xxxxx](https:/datascience.ibm.com)
   
   
 ### Examples
@@ -59,6 +42,8 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 - [Deep Learning Anomaly Detection](https://www.ibm.com/developerworks/library/iot-deep-learning-anomaly-detection-1/)
 - [Cognitive IoT Machine Learning](https://www.ibm.com/developerworks/library/iot-cognitive-iot-app-machine-learning/)
 - [Realtime anomaly detection](https://developer.ibm.com/recipes/tutorials/realtime-anomaly-detection-on-the-iot-edge-using-nodered-and-moving-zscore/)
+- [Python Connectors for Loading and Saving Data in Notebooks](https://datascience.ibm.com/docs/content/analyze-data/python_load.html)
+- [Train and Deploy Core ML Models for iOS and macOS](https://datascience.ibm.com/blog/leverage-scikit-learn-models-with-core-ml/)
 
 ### PowerAI
 - [Access IBM PowerAI platform w/Nimbix Cloud](https://www.youtube.com/watch?v=1nnWj6W7QJI&cm_mc_uid=60775604146415006451217&cm_mc_sid_50200000=1501014513)
