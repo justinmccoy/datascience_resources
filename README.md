@@ -26,6 +26,7 @@ Great Podcast about DataScience: [Partially Derivative](http://partiallyderivati
 - [A visual introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Machine Learning Progression for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+- [Recommended Resources for Beginners](http://www.datasciguide.com/recommended-resources-for-beginners/)
 - **[Notes on Data Science w/Chris Albon](https://chrisalbon.com/)**
 
 ### Videos
