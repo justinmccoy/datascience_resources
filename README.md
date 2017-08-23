@@ -14,6 +14,9 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 
 #### [Signup for Watson Machine Deep Learning (GPU Accelerated) Beta](https://datasciencex.typeform.com/to/jjGRo5)
 
+Great Podcast about DataScience: [Partially Derivative](http://partiallyderivative.com/)
+
+
 ### Guides
 - [Overview of Watson Machine Learning](https://datascience.ibm.com/blog/machine-learning-for-everyone/)
 - [Getting started with Watson Machine Learning](https://console.bluemix.net/docs/services/PredictiveModeling/index.html#WMLgettingstarted)
@@ -23,12 +26,13 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 - [A visual introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Machine Learning Progression for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
- 
+- **[Notes on Data Science w/Chris Albon](https://chrisalbon.com/)**
+
 ### Videos
 21 Short Videos Introducing Features of the Data Science Experience 
 
 <a href="https://www.youtube.com/playlist?list=PLn_pSzzTCsBDItVeyQkpHM1A6wwJ0_jVw" target="_blank"><img src="http://img.youtube.com/vi/cG0ADd9aAO8/0.jpg" alt="21 Short Videos Introducing Features of the Data Science Experience" width="240" height="180" border="10" /></a>
-  
+    
   
 ### Examples
 - [Using correlations To understand Your Data in R](http://amunategui.github.io/Exploring-Your-Data-Set/)
