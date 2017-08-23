@@ -12,7 +12,10 @@ Before getting started with data science it's important to realize there are man
 
 Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/theres-more-than-one-kind-of-data-scientist.html)_ due to these different roles and need for collaboration. Instead of working in siloed environments it's helpful to have a central platform for all the roles to collaborate, for this I recommend getting started with the [Data Science Experience](https://datascience.ibm.com/). Here you can import data from many different sources, clean and transform the data, use tools and libraries of your choice (RStudio, Jupyter Notebooks, SPSS, TensorFlow), train and test models, setup automation of tasks, easily communicate results (Pixie Dust) and share models for consumption as API endpoints.  You get all of this built on top of Apache Spark and IBM’s Cloud Platform.
 
-#### [Signup for Watson Machine Learning Beta](https://datasciencex.typeform.com/to/h8gqld)
+#### [Signup for Watson Machine Deep Learning (GPU Accelerated) Beta](https://datasciencex.typeform.com/to/jjGRo5)
+
+Great Podcast about DataScience: [Partially Derivative](http://partiallyderivative.com/)
+
 
 ### Guides
 - [Overview of Watson Machine Learning](https://datascience.ibm.com/blog/machine-learning-for-everyone/)
@@ -24,12 +27,14 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 - [Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [Machine Learning Progression for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [Recommended Resources for Beginners](http://www.datasciguide.com/recommended-resources-for-beginners/)
+- **[Notes on Data Science w/Chris Albon](https://chrisalbon.com/)**
 
 ### Videos
 21 Short Videos Introducing Features of the Data Science Experience 
 
 <a href="https://www.youtube.com/playlist?list=PLn_pSzzTCsBDItVeyQkpHM1A6wwJ0_jVw" target="_blank"><img src="http://img.youtube.com/vi/cG0ADd9aAO8/0.jpg" alt="21 Short Videos Introducing Features of the Data Science Experience" width="240" height="180" border="10" /></a>
-
+    
+  
 ### Examples
 - [Using correlations To understand Your Data in R](http://amunategui.github.io/Exploring-Your-Data-Set/)
 - [Collection of examples, notebooks and exercies in data science and machine learning](https://github.com/jdwittenauer/ipython-notebooks)
@@ -42,6 +47,8 @@ Data science is considered a _[team sport](http://radar.oreilly.com/2013/06/ther
 - [Deep Learning Anomaly Detection](https://www.ibm.com/developerworks/library/iot-deep-learning-anomaly-detection-1/)
 - [Cognitive IoT Machine Learning](https://www.ibm.com/developerworks/library/iot-cognitive-iot-app-machine-learning/)
 - [Realtime anomaly detection](https://developer.ibm.com/recipes/tutorials/realtime-anomaly-detection-on-the-iot-edge-using-nodered-and-moving-zscore/)
+- [Python Connectors for Loading and Saving Data in Notebooks](https://datascience.ibm.com/docs/content/analyze-data/python_load.html)
+- [Train and Deploy Core ML Models for iOS and macOS](https://datascience.ibm.com/blog/leverage-scikit-learn-models-with-core-ml/)
 
 ### PowerAI
 - [Access IBM PowerAI platform w/Nimbix Cloud](https://www.youtube.com/watch?v=1nnWj6W7QJI&cm_mc_uid=60775604146415006451217&cm_mc_sid_50200000=1501014513)
